@@ -3,13 +3,13 @@
 This Pulumi component provides a reusable way to create a complete AWS VPC infrastructure with public and private subnets, NAT Gateways, and all necessary routing configurations.
 
 #### Installation
-`pulumi package add https://github.com/videmsky/aws-vpc@v1.0.0`
+`pulumi package add https://github.com/videmsky/pulumi-aws-vpc-component@v1.0.0`
 
 Add the following to your Pulumi.yaml for project that consumes this component:
 
 ```bash
 packages:
-  aws-vpc: https://github.com/videmsky/aws-vpc@v1.0.1
+  aws-vpc: https://github.com/videmsky/pulumi-aws-vpc-component@v1.0.1
 ```
 
 > **Note:**
