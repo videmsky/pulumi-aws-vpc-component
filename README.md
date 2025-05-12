@@ -9,7 +9,7 @@ Add the following to your Pulumi.yaml for project that consumes this component:
 
 ```bash
 packages:
-  aws-vpc: https://github.com/videmsky/pulumi-aws-vpc-component@v1.0.1
+  aws-vpc: https://github.com/videmsky/pulumi-aws-vpc-component@v1.0.0
 ```
 
 > **Note:**
