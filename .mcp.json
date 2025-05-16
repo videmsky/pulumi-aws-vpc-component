@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pulumi": {
+      "command": "npx",
+      "args": ["@pulumi/mcp-server@latest"]
+    }
+  }
+}
